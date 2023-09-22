@@ -6,7 +6,7 @@
 >  profession: 'Up and coming sorcerer of code ✨',
 >  passions: ['Web development', 'AI', 'Creating cool projects'],
 >  motto: "If it works, I wrote it. If it doesn't, well I'll look into it.",
->  magicSkills: ['REACT', '', 'JavaScript', '', 'NODE.JS'],
+>  magicSkills: ['REACT', 'PYTHON', 'JAVASCRIPT', 'SWIFT', 'NODE.JS'],
 >  futureGoal: 'Conjuring up the best software the world has ever seen! 🌟',
 > };
 > ```
